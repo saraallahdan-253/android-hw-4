@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">hw4</string>
+    <string name="grade_calculate" />
+    <string name="calculate" />
+    <string name="final_30" />
+    <string name="mid_terms_30" />
+    <string name="quizes_15" />
+    <string name="homework_25" />
+</resources>
